@@ -1,0 +1,27 @@
+body { background-color: yellowgreen;}
+#newColor_2{ background-color: pink; width: 20%; color: blanchedalmond;}
+
+#newColor_1{ background-color: blueviolet; width: 35%; color: white;}
+
+#dogImage{ box-shadow: 25px 10px 4px purple; width:150px;}
+
+#myStruggleImage{ box-shadow: 15px 10px 4px orange;
+            width :100px;}
+
+a:link{
+    color: red;
+    font-size: 2em;/*text-size times 2*/
+    font-weight: bold;
+}
+
+a:hover{
+    color : hotpink;
+}
+
+a:visited{
+    color: blue;
+}
+
+a:active{
+     color : blue;
+}
